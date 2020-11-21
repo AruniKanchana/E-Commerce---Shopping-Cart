@@ -1,0 +1,168 @@
+D:\VS\ShoppingSite\ShoppingSite\bin\ShoppingSite.dll.config
+D:\VS\ShoppingSite\ShoppingSite\bin\ShoppingSite.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\ShoppingSite.pdb
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\csc.exe
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\csc.exe.config
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\csc.rsp
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\csi.exe
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\csi.exe.config
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\csi.rsp
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.AppContext.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Collections.Immutable.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Console.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.Compression.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.FileSystem.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.Pipes.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.AccessControl.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Claims.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Principal.Windows.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.ValueTuple.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Xml.XPath.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\vbc.exe
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\vbc.exe.config
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\vbc.rsp
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\VBCSCompiler.exe
+D:\VS\ShoppingSite\ShoppingSite\bin\roslyn\VBCSCompiler.exe.config
+D:\VS\ShoppingSite\ShoppingSite\bin\Antlr3.Runtime.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\Microsoft.Web.Infrastructure.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\Newtonsoft.Json.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.Helpers.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.Mvc.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.Optimization.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.Razor.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.Deployment.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.Razor.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\WebGrease.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.Helpers.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.Mvc.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.Optimization.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.Razor.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.Deployment.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.Razor.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\Newtonsoft.Json.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\Antlr3.Runtime.pdb
+D:\VS\ShoppingSite\ShoppingSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VS\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.csprojAssemblyReference.cache
+D:\VS\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.csproj.CoreCompileInputs.cache
+D:\VS\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.csproj.CopyComplete
+D:\VS\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.dll
+D:\VS\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.pdb
+D:\VS\ShoppingSite\ShoppingSite\bin\EntityFramework.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\EntityFramework.SqlServer.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\EntityFramework.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\EntityFramework.SqlServer.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\PagedList.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\PagedList.Mvc.dll
+D:\VS\ShoppingSite\ShoppingSite\bin\PagedList.xml
+D:\VS\ShoppingSite\ShoppingSite\bin\PagedList.Mvc.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\ShoppingSite.dll.config
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\ShoppingSite.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\ShoppingSite.pdb
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\csc.exe
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\csc.exe.config
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\csc.rsp
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\csi.exe
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\csi.exe.config
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\csi.rsp
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.AppContext.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Collections.Immutable.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Console.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.Compression.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.FileSystem.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.IO.Pipes.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.AccessControl.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Claims.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.ValueTuple.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Xml.XPath.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\vbc.exe
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\vbc.exe.config
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\vbc.rsp
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\VBCSCompiler.exe
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\roslyn\VBCSCompiler.exe.config
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\Antlr3.Runtime.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\EntityFramework.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\EntityFramework.SqlServer.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\Microsoft.Web.Infrastructure.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\Newtonsoft.Json.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\PagedList.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\PagedList.Mvc.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.Helpers.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.Mvc.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.Optimization.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.Razor.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.Deployment.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.Razor.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\WebGrease.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\EntityFramework.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\EntityFramework.SqlServer.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\PagedList.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\PagedList.Mvc.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.Helpers.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.Mvc.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.Optimization.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.Razor.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.Deployment.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\System.Web.WebPages.Razor.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\Newtonsoft.Json.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\Antlr3.Runtime.pdb
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.csprojAssemblyReference.cache
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.csproj.CoreCompileInputs.cache
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.csproj.CopyComplete
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.dll
+E:\Project Backups\version 9\ShoppingSite\ShoppingSite\obj\Debug\ShoppingSite.pdb

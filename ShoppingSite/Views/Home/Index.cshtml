@@ -1,0 +1,129 @@
+﻿@model ShoppingSite.Models.Home.HomeIndexViewModel
+@using PagedList;
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="container">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+
+            <div class="item active">
+                <img style="height:340px; width:100%" src="../Images/all.jpg">
+                <div class="carousel-caption">
+                    <h3>All in One</h3>
+
+                </div>
+            </div><!-- End Item -->
+
+            <div class="item">
+                <img style="height:340px; width:100%" src="../Images/OG-mwc_2020.jpg">
+                <div class="carousel-caption">
+                    <h3>Your Choice</h3>
+
+                </div>
+            </div><!-- End Item -->
+
+            <div class="item">
+                <img style="height:340px; width:100%" src="../Images/ud.jpg">
+                <div class="carousel-caption">
+                    <h3>Rich Life</h3>
+
+                </div>
+            </div><!-- End Item -->
+
+            <div class="item">
+                <img style="height:340px; width:100%" src="../Images/cv2.jpg">
+                <div class="carousel-caption">
+                    <h3>The Fashion</h3>
+
+                </div>
+            </div><!-- End Item -->
+
+            <div class="item">
+                <img style="height:340px; width:100%" src="../Images/cover.jpg">
+                <div class="carousel-caption">
+                    <h3>Future Trend</h3>
+
+                </div>
+            </div><!-- End Item -->
+
+        </div><!-- End Carousel Inner -->
+
+        
+
+    </div><!-- End Carousel -->
+</div>
+
+<div class="olContent f1"> <h2 style="color:black"> Search Here...</h2></div>
+<form method="post">
+    <div class="olSearch fr">
+        <input type="text" name="search" placeholder="I'm Shopping for...."  class="inputComn form-control" />
+        <div class="searchIcon">
+            <button type="submit" class="searchBtn">
+            SEARCH</button>
+        </div>
+    </div>
+</form>
+
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="page-header">
+            <h2>Our Products</h2>
+        </div>
+    </div>
+</div>
+
+<div class="row product-container">
+    @foreach (var item in Model.ListOfProducts)
+    {
+      
+        <div class="col-md-3 col-sm-3 col-xs-6" style="margin-bottom:8px">
+            <div class="thumbnail product-item" style="height:300px">
+                <img class="img-responsive" title="Click to view product details" style="cursor:pointer;height:160px;width:100%" src="~/ProductImages/@item.ProductImage" />
+
+                <div class="caption">
+                    <h5>@item.ProductName</h5>
+                    <p>@item.Price</p>
+                    <p>
+                        @if (item.Quantity > 0)
+                        {
+                            using (Html.BeginForm("AddtoCart", "Home", new { productId = item.ProductId }, FormMethod.Post))
+                            {
+                                <button type="submit" class="pull-right"><i class="fa fa-shopping-cart"></i></button>
+                            }
+
+                            <p>Available</p>
+                        }
+                        else
+                        {
+                        <p> Not Available</p>
+                        }
+                   </p>
+                        <div class="product-item-badge">
+                            @if (item.IsFeatured == true)
+                            {
+                                <p>New</p>
+                            }
+                            else
+                            {
+                                <p>Old</p>
+                            }
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        }
+
+      
+</div>
+<div class="container">
+    @Html.PagedListPager(Model.ListOfProducts, page => Url.Action("Index", new { page, search = Request.QueryString["search"] }))
+</div>

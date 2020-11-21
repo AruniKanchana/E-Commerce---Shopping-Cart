@@ -1,0 +1,52 @@
+﻿@using ShoppingSite.Models.Home;
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Shopping Cart</h2>
+@if (Session["cart"] == null)
+{
+    <div class="alert alert-danger">
+        <strong>No Products Added To Cart!!!</strong>
+    </div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Add</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+                @foreach (Item item in (List<Item>)Session["cart"])
+                {
+
+                    <tr>
+                        <td>@item.Product.ProductName</td>
+                        <td>@item.Quantity</td>
+                        <td>
+                            <a href="@Url.Action("AddtoCart","Home",new { productId=item.Product.ProductId,url="Checkout"})">
+                                <i class="fa fa-plus"></i>
+                            </a>
+                            <a href="@Url.Action("DecreaseQty","Home",new { productId=item.Product.ProductId,url="Checkout"})">
+                                <i class="fa fa-minus"></i>
+                            </a>
+                        </td>
+                        <td>
+
+                            <a href="@Url.Action("RemoveCart","Home", new { productId=item.Product.ProductId,url="Checkout"})">
+                                <i class="fa fa-times"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+        </tbody>
+    </table>
+    <a class="btn btn-success" href="@Url.Action("CheckoutDetails","Home")">Check Out</a>
+}

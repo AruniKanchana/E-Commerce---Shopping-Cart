@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Order";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Session["cart"] == null)
+{
+    <div class="alert alert-danger">
+        <strong>No Products Added To Cart!!!</strong>
+    </div>
+}
+else
+{
+    <h2>Thank You!</h2>
+    <p>We received your order and will process it within the next 24 hours!</p>
+    <p>Have a good day!</p>
+}
+
